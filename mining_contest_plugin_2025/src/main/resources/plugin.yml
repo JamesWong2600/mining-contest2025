@@ -1,0 +1,7 @@
+name: mining_contest_plugin_2025
+version: '1.0-SNAPSHOT'
+main: org.project.mining_contest_plugin_2025.Mining_contest_plugin_2025
+api-version: '1.20'
+commands:
+  start:
+    description: A simple description.
